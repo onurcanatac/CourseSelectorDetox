@@ -1,0 +1,8 @@
+# Ignore files with .log extension
+*.log
+
+# Ignore node_modules
+node_modules/
+
+.bundle
+.idea
