@@ -1,0 +1,4 @@
+#Mon Aug 21 10:43:11 EEST 2023
+base.0=C\:\\Users\\lenovo\\EmptyProject\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

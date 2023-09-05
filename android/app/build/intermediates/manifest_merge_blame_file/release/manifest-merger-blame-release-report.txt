@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.emptyproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:6:5-27:19
+14        android:name="com.emptyproject.MainApplication"
+14-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:7:7-38
+15        android:allowBackup="false"
+15-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:11:7-34
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\03f607ae011e408fdc09fdf2cadcb2be\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:9:7-41
+18        android:label="@string/app_name"
+18-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:8:7-39
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:10:7-52
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:12:7-38
+21        <activity
+21-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:13:7-26:18
+22            android:name="com.emptyproject.MainActivity"
+22-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:14:9-37
+23            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+23-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:16:9-118
+24            android:exported="true"
+24-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:19:9-32
+25            android:label="@string/app_name"
+25-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:15:9-41
+26            android:launchMode="singleTask"
+26-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:17:9-40
+27            android:networkSecurityConfig="@xml/network_security_config"
+27-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:21:9-69
+28            android:windowSoftInputMode="adjustResize" >
+28-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:18:9-51
+29            <intent-filter>
+29-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:22:9-25:25
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:23:13-65
+30-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:23:21-62
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:24:13-73
+32-->C:\Users\lenovo\EmptyProject\android\app\src\main\AndroidManifest.xml:24:23-70
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+37            android:name="androidx.startup.InitializationProvider"
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+38            android:authorities="com.emptyproject.androidx-startup"
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+39            android:exported="false" >
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+40            <meta-data
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+41                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+42                android:value="androidx.startup" />
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c05ac4b53dffbb35b8e8d51e6e9fffe6\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+43            <meta-data
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\0b05b76c8ae6244b99db9038dfdc0852\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+44                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\0b05b76c8ae6244b99db9038dfdc0852\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+45                android:value="androidx.startup" />
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\0b05b76c8ae6244b99db9038dfdc0852\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+46        </provider>
+47
+48        <meta-data
+48-->[com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\cf97536c55197a5bc393a27a719772d1\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+49            android:name="com.facebook.soloader.enabled"
+49-->[com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\cf97536c55197a5bc393a27a719772d1\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+50            android:value="false" />
+50-->[com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\cf97536c55197a5bc393a27a719772d1\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+51    </application>
+52
+53</manifest>

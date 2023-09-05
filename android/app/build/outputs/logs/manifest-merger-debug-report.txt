@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e42eca6f076ddc57d75527dbc7888a5\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\999a88294a2040c38ae1acc51a7b79c1\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-safe-area-context] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\f9ac593d4d5a4c58f55524ef949fe201\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d7f444a4c86fc5075fca5db7147f3f2b\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\c99200c5f121b469defd4e6bb6451e53\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\2c3387b31a57b1ac210a3f12355d4e77\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\fc523468ada7b64bca2d087e09776aa4\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\acbc651fce7b5b5e1cc5fe4429f2f30e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\lenovo\.gradle\caches\transforms-3\e97ae291fddff8f429976a84c2ea38ed\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\3a5499c64a7e8c540b050541c3b08140\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\30938f2dfa1c2dc80d30dd8c7629f6b5\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\975beec3c3944e91c94e502377120d39\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\25aa9f6196e090b8dac78a0897b2ec2d\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5789137c43cf6ff899570fc5ea822656\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\e413f3ad106f554e442f8600a2738ecb\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\80cc5e4c864f96836a50b32575728b77\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\48b5361f4d6435113e6537452f453086\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\7c082e68da7b344017c4b6c39504538f\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\872f342c4617a2d7289bd4542cd2e0d8\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\f857c50f59023148bc4dd1c4a515dfb0\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\9eb3261fe9ea44872c725235606a4824\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b8ecfb5f0f768116cb34714af0108a9\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\70dd9a088f82e7eff87c7b4d0d95c4a3\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\71e0d3dc589245e95f365d252530fa62\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\01b435044e7965cdfce48fa480f32f3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\eac312764e7fbe7ae4cd3ee8c665d586\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1df82171a526423aec9952233effc596\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3169ce2d6ae765a97a603eae58e8249\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\.gradle\caches\transforms-3\c97936b6d053b0a82f7ee57cfacc4748\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\.gradle\caches\transforms-3\f1f0543a3000f4bf1b6f9924d819482f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f59d42276bd7197c0a56f0c66efc3b4e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\466530c3f257fa3c2d4080d04ff3b254\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\4948d9a951f18dc61f3fa15ffad872b5\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\a7bf38dc4cc8b6ebfd31b37db0fd1429\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3ac110926bc0b51ea41929cccb32b597\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\a3015250aba08e981d959d9cbb7965f4\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\baff9a66b6170f147b0753c3471f26a3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\76dc2947d2e13cd7b670b92858d2c135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\a809a07a177bb012dd7485cba0070b87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\46aef07adca7662fb5a254c8c95326d0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\da79711be0cdb4eaca2015a8ac73a0c5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\9dd41468d09157d4a61dc143dae51d9d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\7dcf1204df340806e092997908f0d9fb\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b6bd94002afdab4c7ee4696474c995f1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3cc42fb0d51361598f5e3588634241b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\5434987468a48684d8f655063ea3d8a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\b31ed3292b0f2dff2a429e3380140544\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\40b57cccd92ba5dcb3d555d378a84724\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b9b82b4efaeb0763fd8f4024a2510482\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b4de793ab2019556d68b6109f9aa3203\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\e753f098f90f83c1be13fc79f2bc4a95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8020d667db0e198f52de30e9b9f9c070\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\7524e928565d1aa5b0d8b5af9321e876\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\f301387b8947371ccba509f8195b9cdb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6980d1c3899ff6ecb43c724cf3408705\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\05f54e650130560020ec452de71d7935\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\94d2fece468159928c6a3cd0f1d32c03\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d7f444a4c86fc5075fca5db7147f3f2b\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d7f444a4c86fc5075fca5db7147f3f2b\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\e753f098f90f83c1be13fc79f2bc4a95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\e753f098f90f83c1be13fc79f2bc4a95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.emptyproject.MainActivity
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:13:7-26:18
+	tools:node
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:20:9-27
+	android:label
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:networkSecurityConfig
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml:24:23-70
+uses-sdk
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e42eca6f076ddc57d75527dbc7888a5\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e42eca6f076ddc57d75527dbc7888a5\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\999a88294a2040c38ae1acc51a7b79c1\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\999a88294a2040c38ae1acc51a7b79c1\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-safe-area-context] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\lenovo\CourseSelectorDetox\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\f9ac593d4d5a4c58f55524ef949fe201\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\f9ac593d4d5a4c58f55524ef949fe201\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d7f444a4c86fc5075fca5db7147f3f2b\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d7f444a4c86fc5075fca5db7147f3f2b\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\c99200c5f121b469defd4e6bb6451e53\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\c99200c5f121b469defd4e6bb6451e53\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\2c3387b31a57b1ac210a3f12355d4e77\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\lenovo\.gradle\caches\transforms-3\2c3387b31a57b1ac210a3f12355d4e77\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\fc523468ada7b64bca2d087e09776aa4\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\fc523468ada7b64bca2d087e09776aa4\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\acbc651fce7b5b5e1cc5fe4429f2f30e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\lenovo\.gradle\caches\transforms-3\acbc651fce7b5b5e1cc5fe4429f2f30e\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\lenovo\.gradle\caches\transforms-3\e97ae291fddff8f429976a84c2ea38ed\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:2:2-70
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\lenovo\.gradle\caches\transforms-3\e97ae291fddff8f429976a84c2ea38ed\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:2:2-70
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\3a5499c64a7e8c540b050541c3b08140\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\3a5499c64a7e8c540b050541c3b08140\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\30938f2dfa1c2dc80d30dd8c7629f6b5\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\30938f2dfa1c2dc80d30dd8c7629f6b5\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\975beec3c3944e91c94e502377120d39\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\975beec3c3944e91c94e502377120d39\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\25aa9f6196e090b8dac78a0897b2ec2d\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\25aa9f6196e090b8dac78a0897b2ec2d\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5789137c43cf6ff899570fc5ea822656\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5789137c43cf6ff899570fc5ea822656\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\e413f3ad106f554e442f8600a2738ecb\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\e413f3ad106f554e442f8600a2738ecb\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\80cc5e4c864f96836a50b32575728b77\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\80cc5e4c864f96836a50b32575728b77\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\48b5361f4d6435113e6537452f453086\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\48b5361f4d6435113e6537452f453086\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\7c082e68da7b344017c4b6c39504538f\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\7c082e68da7b344017c4b6c39504538f\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\872f342c4617a2d7289bd4542cd2e0d8\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\872f342c4617a2d7289bd4542cd2e0d8\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\f857c50f59023148bc4dd1c4a515dfb0\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\f857c50f59023148bc4dd1c4a515dfb0\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\9eb3261fe9ea44872c725235606a4824\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\9eb3261fe9ea44872c725235606a4824\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b8ecfb5f0f768116cb34714af0108a9\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b8ecfb5f0f768116cb34714af0108a9\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\70dd9a088f82e7eff87c7b4d0d95c4a3\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\70dd9a088f82e7eff87c7b4d0d95c4a3\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\71e0d3dc589245e95f365d252530fa62\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\71e0d3dc589245e95f365d252530fa62\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\01b435044e7965cdfce48fa480f32f3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\01b435044e7965cdfce48fa480f32f3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\eac312764e7fbe7ae4cd3ee8c665d586\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\eac312764e7fbe7ae4cd3ee8c665d586\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1df82171a526423aec9952233effc596\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1df82171a526423aec9952233effc596\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3169ce2d6ae765a97a603eae58e8249\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3169ce2d6ae765a97a603eae58e8249\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\.gradle\caches\transforms-3\c97936b6d053b0a82f7ee57cfacc4748\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\.gradle\caches\transforms-3\c97936b6d053b0a82f7ee57cfacc4748\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\.gradle\caches\transforms-3\f1f0543a3000f4bf1b6f9924d819482f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\.gradle\caches\transforms-3\f1f0543a3000f4bf1b6f9924d819482f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f59d42276bd7197c0a56f0c66efc3b4e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f59d42276bd7197c0a56f0c66efc3b4e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\466530c3f257fa3c2d4080d04ff3b254\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\466530c3f257fa3c2d4080d04ff3b254\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\4948d9a951f18dc61f3fa15ffad872b5\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\4948d9a951f18dc61f3fa15ffad872b5\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\a7bf38dc4cc8b6ebfd31b37db0fd1429\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\a7bf38dc4cc8b6ebfd31b37db0fd1429\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3ac110926bc0b51ea41929cccb32b597\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3ac110926bc0b51ea41929cccb32b597\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\a3015250aba08e981d959d9cbb7965f4\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\a3015250aba08e981d959d9cbb7965f4\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\baff9a66b6170f147b0753c3471f26a3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\baff9a66b6170f147b0753c3471f26a3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\76dc2947d2e13cd7b670b92858d2c135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\76dc2947d2e13cd7b670b92858d2c135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\a809a07a177bb012dd7485cba0070b87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\a809a07a177bb012dd7485cba0070b87\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\46aef07adca7662fb5a254c8c95326d0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\46aef07adca7662fb5a254c8c95326d0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\da79711be0cdb4eaca2015a8ac73a0c5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\da79711be0cdb4eaca2015a8ac73a0c5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\9dd41468d09157d4a61dc143dae51d9d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\9dd41468d09157d4a61dc143dae51d9d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\7dcf1204df340806e092997908f0d9fb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\7dcf1204df340806e092997908f0d9fb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b6bd94002afdab4c7ee4696474c995f1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b6bd94002afdab4c7ee4696474c995f1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\30c1c0ec091a1a5583bd33d8e2e5008a\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3cc42fb0d51361598f5e3588634241b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b3cc42fb0d51361598f5e3588634241b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\5434987468a48684d8f655063ea3d8a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\5434987468a48684d8f655063ea3d8a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\b31ed3292b0f2dff2a429e3380140544\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\b31ed3292b0f2dff2a429e3380140544\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\40b57cccd92ba5dcb3d555d378a84724\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\40b57cccd92ba5dcb3d555d378a84724\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b9b82b4efaeb0763fd8f4024a2510482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b9b82b4efaeb0763fd8f4024a2510482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b4de793ab2019556d68b6109f9aa3203\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b4de793ab2019556d68b6109f9aa3203\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\e753f098f90f83c1be13fc79f2bc4a95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\e753f098f90f83c1be13fc79f2bc4a95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8020d667db0e198f52de30e9b9f9c070\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8020d667db0e198f52de30e9b9f9c070\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\7524e928565d1aa5b0d8b5af9321e876\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\.gradle\caches\transforms-3\7524e928565d1aa5b0d8b5af9321e876\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\f301387b8947371ccba509f8195b9cdb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\f301387b8947371ccba509f8195b9cdb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6980d1c3899ff6ecb43c724cf3408705\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6980d1c3899ff6ecb43c724cf3408705\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\05f54e650130560020ec452de71d7935\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\lenovo\.gradle\caches\transforms-3\05f54e650130560020ec452de71d7935\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\94d2fece468159928c6a3cd0f1d32c03\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\94d2fece468159928c6a3cd0f1d32c03\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from C:\Users\lenovo\CourseSelectorDetox\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\lenovo\.gradle\caches\transforms-3\66de62efd440a276d9369a2419b241a2\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\lenovo\.gradle\caches\transforms-3\8d7da4027dc4e56c690d7060bb038388\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\627365ad8d03e2e70db26545ef7bac18\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8dae10487553647bd7c47a98d261bdc4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\3d2245eff4bb2907fd15709305100056\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
