@@ -1,2 +1,2 @@
-# CourseSelectorDetox
+# Course Selector Application with Detox E2E Tests
 A course selector application that I have built with React Native for the purpose of learning and utilizing Detox E2E Testing.
